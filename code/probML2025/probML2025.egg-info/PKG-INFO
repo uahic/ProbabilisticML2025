@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: probML2025
+Version: 0.1.0
+Summary: Inofficial Probabilistic Machine Learning 2025 lecture code (University Tuebingen)
+Home-page: https://github.com/uahic/probML2025
+Author: uahic
+Author-email: secret
+License: Unlicensed
+Requires-Dist: jax
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
